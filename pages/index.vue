@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">redirect-tester</h1>
-      <a href="https://be97527d9842.ngrok.io/pages/">BACK FROM SSO LOGIN</a>
+      <a href="https://5861d0402133.ngrok.io/pages/">BACK FROM SSO LOGIN</a>
     </div>
   </div>
 </template>
